@@ -45,6 +45,6 @@ General terms:
 - Follows the folder structure of [TS3-Starter-UI](https://github.com/VMPYRC/TS3-Starter-UI)
 - Original tumblr [post](https://www.tumblr.com/simmanity/768689466972995584/)
 - More screenshots in [these discussions](https://github.com/aecyia/Celeste/discussions/)
-- ModTheSims upload [submission]()
+- ModTheSims upload [submission](https://modthesims.info/d/688189)
 
 [aecyia](https://github.com/aecyia) ♡ [VMPYRC](https://github.com/VMPYRC) ♡ Celeste ♡ 2024
