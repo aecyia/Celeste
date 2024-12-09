@@ -14264,7 +14264,7 @@
                                 <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                                 <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.9" />
                                 <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                                  <value>0xff002d74</value>
+                                  <value>0xFF228899</value>
                                   <value>0xffb3b3b3</value>
                                   <value>0xFFFFFFFF</value>
                                   <value>0xffffffff</value>
@@ -16908,7 +16908,7 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff002d74</value>
+                              <value>0xFF228899</value>
                               <value>0xff8ba3c1</value>
                               <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
@@ -17136,7 +17136,7 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff002d74</value>
+                              <value>0xFF228899</value>
                               <value>0xff8ba3c1</value>
                               <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
@@ -17761,7 +17761,7 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.8" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff002d74</value>
+                              <value>0xFF228899</value>
                               <value>0xff597bb9</value>
                               <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
@@ -18010,7 +18010,7 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff002d74</value>
+                              <value>0xFF228899</value>
                               <value>0xff8ba3c1</value>
                               <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
@@ -18771,7 +18771,7 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff002d74</value>
+                              <value>0xFF228899</value>
                               <value>0xff8ba3c1</value>
                               <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
@@ -19126,7 +19126,7 @@
                             <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000000" />
                             <prop name="Scale" propid="0x4f3c4a2a" type="float" value="1" />
                             <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                              <value>0xff002d74</value>
+                              <value>0xFF228899</value>
                               <value>0xff8ba3c1</value>
                               <value>0xFFFFFFFF</value>
                               <value>0xffffffff</value>
@@ -21189,11 +21189,11 @@
                     <prop name="ImageDrawableFlags" propid="0x4f3c4a27" type="uint32" value="0x00000003" />
                     <prop name="Scale" propid="0x4f3c4a2a" type="float" value="0.5" />
                     <prop name="StateColors" propid="0x4f3c4a2b" type="uint32" count="8">
-                      <value>0xff002d74</value>
+                      <value>0xFF228899</value>
                       <value>0xff808fa9</value>
-                      <value>0xff002d74</value>
+                      <value>0xFF228899</value>
                       <value>0xffffffff</value>
-                      <value>0xff002d74</value>
+                      <value>0xFF228899</value>
                       <value>0xff808fa9</value>
                       <value>0xff4c69c4</value>
                       <value>0xffffffff</value>
@@ -21214,14 +21214,14 @@
             </prop>
             <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="0,0" />
             <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-              <value>0xff002d74</value>
+              <value>0xFF228899</value>
               <value>0xff808fa9</value>
               <value>0xffffffff</value>
-              <value>0xff002d74</value>
-              <value>0xff002d74</value>
+              <value>0xFF228899</value>
+              <value>0xFF228899</value>
               <value>0xff4c69c4</value>
-              <value>0xff002d74</value>
-              <value>0xff002d74</value>
+              <value>0xFF228899</value>
+              <value>0xFF228899</value>
             </prop>
             <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="1" />
             <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
