@@ -771,7 +771,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -849,14 +849,14 @@
                         </prop>
                         <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
                         <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-                          <value>0xff0b246e</value>
+                          <value>0xFF228899</value>
                           <value>0xff80aac6</value>
                           <value>0xffffffff</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
                         </prop>
                         <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="0" />
                         <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
@@ -925,14 +925,14 @@
                         </prop>
                         <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="1,1" />
                         <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-                          <value>0xff0b246e</value>
+                          <value>0xFF228899</value>
                           <value>0xff80aac6</value>
                           <value>0xffffffff</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
-                          <value>0xff0b246e</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
+                          <value>0xFF228899</value>
                         </prop>
                         <prop name="CaptionHAlign" propid="0xeec1d00c" type="uint32" value="0" />
                         <prop name="CaptionVAlign" propid="0xeec1d00d" type="uint32" value="1" />
@@ -1081,7 +1081,7 @@
                             <prop name="Bottom" propid="4" type="float" value="0" />
                           </struct>
                         </prop>
-                        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+                        <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
                         <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                         <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                         <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -1096,7 +1096,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -1396,7 +1396,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="0" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -1424,7 +1424,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -1596,7 +1596,7 @@
                     <prop name="Bottom" propid="4" type="float" value="0" />
                   </struct>
                 </prop>
-                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+                <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
                 <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
                 <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
                 <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2058,7 +2058,7 @@
                         <prop name="Bottom" propid="4" type="float" value="0" />
                       </struct>
                     </prop>
-                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+                    <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
                     <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
                     <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="3" />
                     <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />
@@ -2337,7 +2337,7 @@
                 <prop name="Bottom" propid="4" type="float" value="0" />
               </struct>
             </prop>
-            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xff0b246e" />
+            <prop name="TextColor" propid="0x6f43fccd" type="uint32" value="0xFF228899" />
             <prop name="HorizontalAlign" propid="0x6f43fccf" type="uint32" value="1" />
             <prop name="VerticalAlign" propid="0x6f43fcd0" type="uint32" value="1" />
             <prop name="WordWrap" propid="0x6f43fcd1" type="uint32" value="5" />

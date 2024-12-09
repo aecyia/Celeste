@@ -91,7 +91,7 @@
                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x03cc86e1" />
                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                     <prop name="Text Colors" propid="0x0ff11731" type="uint32" count="8">
-                      <value>0xff0b246e</value>
+                      <value>0xFF228899</value>
                       <value>0x00ffffff</value>
                       <value>0xff808080</value>
                       <value>0xffffffff</value>
@@ -289,7 +289,7 @@
                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x03cc86e1" />
                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                     <prop name="Text Colors" propid="0x0ff11731" type="uint32" count="8">
-                      <value>0xff0b246e</value>
+                      <value>0xFF228899</value>
                       <value>0x00ffffff</value>
                       <value>0xff808080</value>
                       <value>0xffffffff</value>
@@ -487,7 +487,7 @@
                     <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x03cc86e1" />
                     <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
                     <prop name="Text Colors" propid="0x0ff11731" type="uint32" count="8">
-                      <value>0xff0b246e</value>
+                      <value>0xFF228899</value>
                       <value>0x00ffffff</value>
                       <value>0xff808080</value>
                       <value>0xffffffff</value>
