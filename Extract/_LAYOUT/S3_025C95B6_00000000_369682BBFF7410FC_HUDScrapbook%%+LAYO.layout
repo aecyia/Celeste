@@ -271,10 +271,10 @@
             </prop>
             <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="0,0" />
             <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-              <value>0xFF228899</value>
-              <value>0xFF228899</value>
+              <value>0xff775c41</value>
+              <value>0xff775c41</value>
               <value>0xFF9966FF</value>
-              <value>0xFF228899</value>
+              <value>0xff775c41</value>
               <value>0xFF9966FF</value>
               <value>0xFF9966FF</value>
               <value>0xFF9966FF</value>
@@ -389,10 +389,10 @@
             </prop>
             <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="0,0" />
             <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-              <value>0xFF228899</value>
-              <value>0xFF228899</value>
+              <value>0xff775c41</value>
+              <value>0xff775c41</value>
               <value>0xFF9966FF</value>
-              <value>0xFF228899</value>
+              <value>0xff775c41</value>
               <value>0xFF9966FF</value>
               <value>0xFF9966FF</value>
               <value>0xFF9966FF</value>
@@ -485,10 +485,10 @@
             </prop>
             <prop name="CaptionOffset" propid="0xeec1d00a" type="pointf" value="0,0" />
             <prop name="CaptionColors" propid="0xeec1d00b" type="uint32" count="8">
-              <value>0xFF228899</value>
-              <value>0xFF228899</value>
+              <value>0xff775c41</value>
+              <value>0xff775c41</value>
               <value>0xFF9966FF</value>
-              <value>0xFF228899</value>
+              <value>0xff775c41</value>
               <value>0xFF9966FF</value>
               <value>0xFF9966FF</value>
               <value>0xFF9966FF</value>
@@ -744,7 +744,7 @@
             <prop name="Area" propid="0xeec1b005" type="rectf" value="329,531,442,547" />
             <prop name="Caption" propid="0xeec1b00a" type="string" value="Page 1 of 7" />
             <prop name="FillColor" propid="0xeec1b006" type="uint32" value="0x00000000" />
-            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xffedb494" />
+            <prop name="ShadeColor" propid="0xeec1b004" type="uint32" value="0xFFFFFFFF" />
             <prop name="TextFont" propid="0xeec1b00e" type="uint32" value="0x062eae02" />
             <prop name="SoundGroup" propid="0xeec1b010" type="uint32" value="1" />
             <prop name="Comment" propid="Comment" type="string" value="Pagination" />
